@@ -1,0 +1,8 @@
+/* stylesheet.css */
+div {
+    background-color: red;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace
+}
