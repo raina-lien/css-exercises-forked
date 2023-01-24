@@ -1,7 +1,7 @@
 /* style.css */
 .odd {
     background-color: #FF957A;
-    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 #unique {
     font-size: 36px;
