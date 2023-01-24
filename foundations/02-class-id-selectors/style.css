@@ -10,3 +10,7 @@
 .font24 {
     font-size: 24px;
 }
+#only {
+    font-size: bold;
+    color: #82f760;
+}
